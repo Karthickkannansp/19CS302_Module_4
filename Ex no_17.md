@@ -1,5 +1,5 @@
 # EX 17 C Program to compare two strings without using strcmp().
-## DATE:07-05-2025
+## DATE:21-04-2025
 ## AIM:
 To write a C Program to compare two strings without using strcmp().
 
@@ -13,6 +13,9 @@ To write a C Program to compare two strings without using strcmp().
 7. End.
 ## Program:
 ```
+Program to compare two strings without using strcmp()
+Developed by Karthick Kannan SP
+Register number:212222060114
 #include <stdio.h>
 int main() {
  char str1[100], str2[100];
