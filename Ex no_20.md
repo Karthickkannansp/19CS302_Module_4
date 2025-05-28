@@ -1,5 +1,5 @@
 # EX 20 C program to convert the given string to lowercase without using string functions.
-## DATE:07-05-2025
+## DATE:27-03-2025
 ## AIM:
 To write a C program to convert the given string to lowercase without using string functions.
 
